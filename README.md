@@ -7,7 +7,4 @@
   - Spring Rest
   - Spring Security
   - MySql
-## Front-End
-  - Angular
-  - Typescript
-  - Bootstrap 
+
